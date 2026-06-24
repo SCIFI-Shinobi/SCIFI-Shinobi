@@ -26,10 +26,10 @@
 - **Lead Developer @ MangoGuard** (Aug 2025 – May 2026)
   - Architected and deployed a production TinyML plant health monitoring system for real-time agricultural disease detection on Arduino Nano 33 BLE Sense using MobileNetV1, FastAPI, and React.
 - **Network Engineering Intern @ Injibara University (INU) ICT Executive** (April 2025 – June 2025)
-  - Engineered & Simulated an enterprise three-tier hierarchical network design incorporating HSRP for gateway redundancy and OSPF for dynamic inter-VLAN routing.
-  - Designed & Deployed a foundational SNMP-based monitoring solution to transition the campus ICT infrastructure from reactive troubleshooting to proactive fault detection.
-  - Configured & Segmented logical network architectures via VLAN allocation, implementing DHCP relay agents to handle secure IP distribution across multiple campus departments.
-  - Executed hands-on hardware infrastructure maintenance, including TIA-568B structured Cat6 cabling, access point provisioning, and network link debugging using wire mappers.
+  - **Designed & Simulated Architecture:** Built a three-tier hierarchical network design, configuring OSPF for dynamic routing and implementing HSRP to ensure gateway redundancy and high availability.
+  - **Automated System Monitoring:** Deployed a foundational SNMP-based monitoring solution to move campus infrastructure from reactive troubleshooting to proactive fault and performance detection.
+  - **Managed Traffic Segmentation:** Configured network segmentation via VLANs and established DHCP relay agents to streamline automated IP distribution across diverse university departments.
+  - **Maintained Physical Infrastructure:** Handled physical layer deployments, including structured cabling (TIA-568B), access point provisioning, and hardware link debugging.
 - **Backend Developer @ Hotel Management System** (Dec 2024 – Jan 2025)
   - Engineered RESTful backend with PostgreSQL for booking, room management, and robust user role authorization.
 - **Front-End Developer @ Wubet Digital Platform** (Sep 2024 – Nov 2024)
@@ -65,14 +65,6 @@
 ### Tools & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Networking & Infrastructure
-![SNMP](https://img.shields.io/badge/SNMP-005571?style=for-the-badge&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-005571?style=for-the-badge&logoColor=white)
-![HSRP](https://img.shields.io/badge/HSRP-005571?style=for-the-badge&logoColor=white)
-![VLAN](https://img.shields.io/badge/VLAN-005571?style=for-the-badge&logoColor=white)
-![Routing/Switching](https://img.shields.io/badge/Routing%2FSwitching-005571?style=for-the-badge&logoColor=white)
-![TIA-568B](https://img.shields.io/badge/TIA--568B-005571?style=for-the-badge&logoColor=white)
 
 </div>
 
