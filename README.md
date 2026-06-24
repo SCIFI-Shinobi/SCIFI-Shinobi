@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=160&section=header&text=Eyobel%20Zeleke&fontSize=52&fontAlignY=42&fontColor=ffffff&animation=fadeIn&desc=Embedded%20AI%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=17&descColor=00FF41" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=160&section=header&text=build.%20ship.%20repeat.&fontSize=46&fontAlignY=42&fontColor=00FF41&animation=fadeIn&desc=Embedded%20AI%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=17&descColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-I'm an Electrical & Computer Engineering student who builds things across the full stack — from training TinyML models that run on microcontrollers, to REST APIs, to React frontends. I care about making things that actually work in production, not just demos.
+I'm an Electrical & Computer Engineering graduate who builds things across the full stack — from training TinyML models that run on microcontrollers, to REST APIs, to React frontends. I care about making things that actually work in production, not just demos.
 
 Currently looking for dev roles where I can keep building meaningful software.
 
