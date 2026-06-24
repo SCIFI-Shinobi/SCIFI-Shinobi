@@ -1,133 +1,73 @@
-<!-- HERO BANNER -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=SCIFI-Shinobi&fontSize=65&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=Embedded%20AI%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Edge%20Computing&descAlignY=68&descSize=18&descColor=00FF41" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=160&section=header&text=Eyobel%20Zeleke&fontSize=52&fontAlignY=42&fontColor=ffffff&animation=fadeIn&desc=Embedded%20AI%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=17&descColor=00FF41" width="100%" />
 </div>
 
-<!-- ANIMATED TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=print(%22Hello%2C+World!%22)+%23+Eyobel+Zeleke;Embedded+AI+%7C+Full-Stack+Systems+%7C+Edge+Computing;Deploying+Intelligence+from+Silicon+to+the+Cloud...;%3E_%+Jacked+into+the+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+AI+systems+at+the+hardware+level.;Full-stack+from+microcontroller+to+web+UI.;Always+learning.+Always+shipping." alt="Typing SVG" />
 </div>
-
-<br/>
-
-<!-- IDENTITY CARD -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  OPERATOR  : Eyobel Zeleke                 CLASS: SHINOBI   ║
-║  DEGREE    : Electrical & Computer Engineering               ║
-║  CLEARANCE : Embedded AI · Full-Stack · Edge Computing      ║
-║  STATUS    : [ ACTIVE ] — Building @ the edge of silicon    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<!-- ABOUT -->
-<div align="center">
-  <h2>⚡ <code>whoami</code></h2>
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-
-🧠 **Embedded Systems & TinyML** — deploying neural nets on microcontrollers where cloud is not an option
-
-🌐 **Full-Stack Architecture** — from PostgreSQL schemas to React UIs, end-to-end ownership of every layer
-
-🚀 **Open Source & Side Projects** — always shipping, always learning, always breaking things on purpose
-
-🎯 **Current Mission** — Merging hardware intuition with AI to build systems that compute at the edge
-
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SCIFI-Shinobi&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
 ---
 
-<!-- TECH ARSENAL -->
-<div align="center">
-  <h2>🛡️ Tech Arsenal</h2>
-  <p><sub><i>Tools forged and battle-tested in the field</i></sub></p>
-</div>
+I'm an Electrical & Computer Engineering student who builds things across the full stack — from training TinyML models that run on microcontrollers, to REST APIs, to React frontends. I care about making things that actually work in production, not just demos.
+
+Currently looking for dev roles where I can keep building meaningful software.
+
+---
+
+## Skills
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,fastapi,nodejs&theme=dark" />
-
-**Infrastructure & Embedded**
+<img src="https://skillicons.dev/icons?i=react,html,css,fastapi,spring&theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=postgresql,docker,linux,git,arduino&theme=dark" />
 
 </div>
 
-<br/>
-
 ---
 
-<!-- OPERATIONS & DEPLOYMENTS -->
-<div align="center">
-  <h2>💼 Operations &amp; Deployments</h2>
-  <p><sub><i>Missions executed — impact delivered</i></sub></p>
-</div>
+## Experience
 
-<table align="center" width="100%">
+<table width="100%">
   <thead>
     <tr>
-      <th align="left">🖥️ Role &amp; Timeline</th>
-      <th align="left">⚙️ What I Built</th>
-      <th align="center">🔑 Stack</th>
+      <th align="left">Role</th>
+      <th align="left">What I built</th>
+      <th align="left">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Lead Developer</strong><br/><a href="#">MangoGuard</a><br/><sub>Aug 2025 – May 2026</sub></td>
-      <td>Deployed <strong>agricultural disease detection</strong> using TinyML on Arduino Nano 33 BLE Sense. Achieved real-time inference at the edge with <strong>MobileNetV1</strong> + FastAPI backend sync.</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python,arduino,fastapi&theme=dark&perline=3" /></td>
-    </tr>
-
-    <tr>
-      <td><strong>Backend Developer</strong><br/><a href="#">Hotel System</a><br/><sub>Dec 2024 – Jan 2025</sub></td>
-      <td>Engineered a full <strong>RESTful API</strong> with PostgreSQL — robust booking engine, room management, and availability logic from scratch.</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgresql,fastapi,python&theme=dark&perline=3" /></td>
+      <td><strong>Lead Developer</strong><br/><sub>MangoGuard · Aug 2025–May 2026</sub></td>
+      <td>Agricultural disease detection on Arduino Nano 33 BLE Sense using TinyML (MobileNetV1). Runs fully offline — FastAPI backend for cloud sync and reporting.</td>
+      <td><img src="https://skillicons.dev/icons?i=python,arduino,fastapi&theme=dark&perline=3" /></td>
     </tr>
     <tr>
-      <td><strong>Front-End Developer</strong><br/><a href="#">Wubet Platform</a><br/><sub>Sep 2024 – Nov 2024</sub></td>
-      <td>Built a responsive <strong>marketplace MVP</strong> connecting designers to clients. Delivered full UI/UX design and component architecture in React.</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=3" /></td>
+      <td><strong>Backend Developer</strong><br/><sub>Hotel Management System · Dec 2024–Jan 2025</sub></td>
+      <td>RESTful API for room booking and management built with Spring Boot and PostgreSQL. Handled availability logic, reservations, and admin workflows end-to-end.</td>
+      <td><img src="https://skillicons.dev/icons?i=java,spring,postgresql&theme=dark&perline=3" /></td>
+    </tr>
+    <tr>
+      <td><strong>Front-End Developer</strong><br/><sub>Wubet Platform · Sep 2024–Nov 2024</sub></td>
+      <td>Marketplace connecting designers to clients. Built the full UI in React — component architecture, routing, and responsive layout from scratch.</td>
+      <td><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=3" /></td>
     </tr>
   </tbody>
 </table>
 
-<br/>
-
 ---
 
-<!-- TELEMETRY -->
-<div align="center">
-  <h2>📊 Telemetry</h2>
-  <p><sub><i>Live metrics from the mainframe</i></sub></p>
-</div>
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCIFI-Shinobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=github" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCIFI-Shinobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SCIFI-Shinobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=github" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCIFI-Shinobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -135,14 +75,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SCIFI-Shinobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 </div>
 
-<br/>
-
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+## Contribution Graph
+
 <div align="center">
-  <h2>🐍 Contribution Grid</h2>
-  <p><sub><i>Every commit, a strike — watch the snake feed</i></sub></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SCIFI-Shinobi/SCIFI-Shinobi/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SCIFI-Shinobi/SCIFI-Shinobi/output/github-contribution-grid-snake.svg" />
@@ -150,43 +87,22 @@
   </picture>
 </div>
 
-<br/>
-
 ---
 
-<!-- QUOTE -->
+## Contact
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="mailto:eyobelzeleke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/eyobel-zeleke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://x.com/EyobelZ"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/eyobel_z/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <br/>
 
----
-
-<!-- COMM CHANNELS -->
 <div align="center">
-  <h2>📡 Comm Channels</h2>
-  <p><sub><i>Open to new missions, collabs, and hirings</i></sub></p>
-  <a href="mailto:eyobelzeleke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/eyobel-zeleke">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/EyobelZ">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/eyobel_z/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=120&section=footer&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%" />
 </div>
