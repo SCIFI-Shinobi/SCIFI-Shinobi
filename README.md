@@ -1,23 +1,18 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=160&section=header&text=build.%20ship.%20repeat.&fontSize=46&fontAlignY=42&fontColor=00FF41&animation=fadeIn&desc=Embedded%20AI%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=17&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=160&section=header&text=Hi%2C%20I'm%20Eyobel%20%F0%9F%91%8B&fontSize=48&fontAlignY=42&fontColor=ffffff&animation=fadeIn&desc=Embedded%20AI%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=17&descColor=00FF41" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+AI+systems+at+the+hardware+level.;Full-stack+from+microcontroller+to+web+UI.;Always+learning.+Always+shipping." alt="Typing SVG" />
-</div>
+<br/>
+
+I'm an Electrical & Computer Engineering graduate who builds things across the full stack — from running TinyML models on microcontrollers to REST APIs and React frontends. I like figuring out how hardware and software fit together, especially when the constraints are tight.
+
+Currently open to dev roles. If something here looks interesting, feel free to reach out.
 
 <br/>
 
 ---
 
-I'm an Electrical & Computer Engineering graduate who builds things across the full stack — from training TinyML models that run on microcontrollers, to REST APIs, to React frontends. I care about making things that actually work in production, not just demos.
-
-Currently looking for dev roles where I can keep building meaningful software.
-
----
-
-## Skills
+### 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -29,55 +24,58 @@ Currently looking for dev roles where I can keep building meaningful software.
 
 </div>
 
+<br/>
+
 ---
 
-## Experience
+### 💼 Experience
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th align="left">Role</th>
-      <th align="left">What I built</th>
-      <th align="left">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Lead Developer</strong><br/><sub>MangoGuard · Aug 2025–May 2026</sub></td>
-      <td>Agricultural disease detection on Arduino Nano 33 BLE Sense using TinyML (MobileNetV1). Runs fully offline — FastAPI backend for cloud sync and reporting.</td>
-      <td><img src="https://skillicons.dev/icons?i=python,arduino,fastapi&theme=dark&perline=3" /></td>
-    </tr>
-    <tr>
-      <td><strong>Backend Developer</strong><br/><sub>Hotel Management System · Dec 2024–Jan 2025</sub></td>
-      <td>RESTful API for room booking and management built with Spring Boot and PostgreSQL. Handled availability logic, reservations, and admin workflows end-to-end.</td>
-      <td><img src="https://skillicons.dev/icons?i=java,spring,postgresql&theme=dark&perline=3" /></td>
-    </tr>
-    <tr>
-      <td><strong>Front-End Developer</strong><br/><sub>Wubet Platform · Sep 2024–Nov 2024</sub></td>
-      <td>Marketplace connecting designers to clients. Built the full UI in React — component architecture, routing, and responsive layout from scratch.</td>
-      <td><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=3" /></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Lead Developer — MangoGuard</b><br/>
+      <sub>Aug 2025 – May 2026</sub><br/><br/>
+      Built an agricultural disease detection system that runs entirely on an Arduino Nano 33 BLE Sense using TinyML (MobileNetV1). No cloud required for inference — FastAPI backend handles sync and reporting.
+    </td>
+    <td valign="top" width="50%">
+      <b>Backend Developer — Hotel Management System</b><br/>
+      <sub>Dec 2024 – Jan 2025</sub><br/><br/>
+      Built the full REST API using Spring Boot and PostgreSQL — room availability, booking workflows, and admin management, end to end.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Front-End Developer — Wubet Platform</b><br/>
+      <sub>Sep 2024 – Nov 2024</sub><br/><br/>
+      Marketplace connecting designers to clients. Built the entire UI in React — component structure, routing, and responsive layout from scratch.
+    </td>
+    <td valign="top" width="50%">
+    </td>
+  </tr>
 </table>
+
+<br/>
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCIFI-Shinobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=github" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SCIFI-Shinobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=github" height="155" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCIFI-Shinobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCIFI-Shinobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="155" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SCIFI-Shinobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SCIFI-Shinobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
+
+<br/>
 
 ---
 
-## Contribution Graph
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -87,9 +85,11 @@ Currently looking for dev roles where I can keep building meaningful software.
   </picture>
 </div>
 
+<br/>
+
 ---
 
-## Contact
+### 📬 Connect
 
 <div align="center">
   <a href="mailto:eyobelzeleke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
