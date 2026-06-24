@@ -1,11 +1,11 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=SCIFI-Shinobi&fontSize=70&fontAlignY=55&fontColor=00FF41&stroke=00FF41&strokeWidth=2&animation=fadeIn&desc=Hardware%20%E2%9A%A1%20Software%20%E2%9A%A1%20Intelligence&descAlignY=75&descSize=20&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=SCIFI-Shinobi&fontSize=65&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=Embedded%20AI%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Edge%20Computing&descAlignY=68&descSize=18&descColor=00FF41" width="100%" />
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=print(%22Hello%2C+World!%22)+%23+Eyobel+Zeleke;Embedded+AI+%7C+Full-Stack+Systems+%7C+Network+Engineering;Deploying+Intelligence+from+Silicon+to+the+Cloud...;%3E_%+Jacked+into+the+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=print(%22Hello%2C+World!%22)+%23+Eyobel+Zeleke;Embedded+AI+%7C+Full-Stack+Systems+%7C+Edge+Computing;Deploying+Intelligence+from+Silicon+to+the+Cloud...;%3E_%+Jacked+into+the+Architecture" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  OPERATOR  : Eyobel Zeleke                 CLASS: SHINOBI   ║
 ║  DEGREE    : Electrical & Computer Engineering               ║
-║  CLEARANCE : Embedded AI · Full-Stack · Network Eng.        ║
+║  CLEARANCE : Embedded AI · Full-Stack · Edge Computing      ║
 ║  STATUS    : [ ACTIVE ] — Building @ the edge of silicon    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -39,7 +39,7 @@
 
 🌐 **Full-Stack Architecture** — from PostgreSQL schemas to React UIs, end-to-end ownership of every layer
 
-🔌 **Network Engineering** — OSPF, HSRP, SNMP monitoring — making infrastructure observable and resilient
+🚀 **Open Source & Side Projects** — always shipping, always learning, always breaking things on purpose
 
 🎯 **Current Mission** — Merging hardware intuition with AI to build systems that compute at the edge
 
@@ -100,11 +100,7 @@
       <td>Deployed <strong>agricultural disease detection</strong> using TinyML on Arduino Nano 33 BLE Sense. Achieved real-time inference at the edge with <strong>MobileNetV1</strong> + FastAPI backend sync.</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=python,arduino,fastapi&theme=dark&perline=3" /></td>
     </tr>
-    <tr>
-      <td><strong>Network Eng. Intern</strong><br/><a href="#">INU</a><br/><sub>Apr 2025 – Jun 2025</sub></td>
-      <td>Simulated three-tier enterprise networks with <strong>OSPF/HSRP redundancy</strong>. Built automated SNMP campus monitoring dashboards for real-time visibility.</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux,docker&theme=dark&perline=3" /></td>
-    </tr>
+
     <tr>
       <td><strong>Backend Developer</strong><br/><a href="#">Hotel System</a><br/><sub>Dec 2024 – Jan 2025</sub></td>
       <td>Engineered a full <strong>RESTful API</strong> with PostgreSQL — robust booking engine, room management, and availability logic from scratch.</td>
