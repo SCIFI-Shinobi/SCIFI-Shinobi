@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm an Electrical & Computer Engineering graduate who builds things across the full stack — from running TinyML models on microcontrollers to REST APIs and React frontends. I like figuring out how hardware and software fit together, especially when the constraints are tight.
+I'm an Computer Engineering graduate who builds things across the full stack — from running TinyML models on microcontrollers to REST APIs and React frontends. I like figuring out how hardware and software fit together, especially when the constraints are tight.
 
 Currently open to dev roles. If something here looks interesting, feel free to reach out.
 
