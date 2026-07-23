@@ -10,13 +10,13 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=flat-square&color=00FF41&label=Profile+Views&labelColor=0D1117" alt="Profile Views" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" height="28"/>
   &nbsp;&nbsp;&nbsp;
   <a href="https://eyobelz-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-00FF41?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" height="28"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-eyobelz--portfolio.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=00FF41&color=0D1117" alt="Portfolio" height="28"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-00FF41?style=flat-square&logoColor=black" alt="Open to Work" height="28"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0D1117?style=for-the-badge&labelColor=00FF41&color=0D1117" alt="Open to Work" height="28"/>
 
 </div>
 
