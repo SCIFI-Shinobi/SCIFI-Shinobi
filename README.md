@@ -11,21 +11,13 @@
 <!-- ── STATUS STRIP ─────────────────────────────────────────────────────────── -->
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-  <tr>
-    <td align="center" style="padding:0 6px;">
-      <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00FF41" alt="Profile Views" />
-    </td>
-    <td align="center" style="padding:0 6px;">
-      <a href="https://eyobelz-portfolio.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/PORTFOLIO-Live%20%E2%86%97-00FF41?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=00FF41&color=0D1117" alt="Portfolio" />
-      </a>
-    </td>
-    <td align="center" style="padding:0 6px;">
-      <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0D1117?style=for-the-badge&labelColor=00FF41&color=0D1117" alt="Open to Work" />
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00FF41" alt="Profile Views" />
+&nbsp;&nbsp;
+<a href="https://eyobelz-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-eyobelz--portfolio.vercel.app-%2300FF41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=00FF41&color=000000" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20STATUS-OPEN%20TO%20WORK-000000?style=for-the-badge&labelColor=00FF41&color=000000" alt="Open to Work" />
 
 </div>
 
