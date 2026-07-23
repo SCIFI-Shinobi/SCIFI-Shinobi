@@ -40,7 +40,7 @@
 
 **Frameworks & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,fastapi,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,spring&theme=dark" />
 
 **Systems & DevOps**
 
