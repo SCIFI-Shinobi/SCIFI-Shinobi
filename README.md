@@ -1,21 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1628,100:00FF41&height=200&section=header&text=Eyobel%20Zeleke&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Embedded%20AI%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20TinyML&descAlignY=62&descSize=16&descColor=00FF41" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1628,100:00FF41&height=200&section=header&text=Eyobel%20Zeleke&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Embedded%20AI%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20TinyML&descAlignY=62&descSize=16&descColor=00FF41" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Computer+Engineering+Graduate+%F0%9F%8E%93;Embedded+AI+%26+TinyML+Developer+%F0%9F%A4%96;Full-Stack+Systems+Builder+%F0%9F%9A%80;Open+to+Dev+Roles+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=Computer+Engineering+Graduate;Embedded+AI+%26+TinyML+Developer;Full-Stack+Systems+Builder;Open+to+Dev+Roles" alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- ── STATUS STRIP ─────────────────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=flat-square&color=00FF41&label=Profile+Views" alt="Profile Views" />
-  &nbsp;
-  <a href="https://portfolio-seven-opal-48.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00FF41?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work" />
+
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <tr>
+    <td align="center" style="padding:0 6px;">
+      <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00FF41" alt="Profile Views" />
+    </td>
+    <td align="center" style="padding:0 6px;">
+      <a href="https://eyobelz-portfolio.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/PORTFOLIO-Live%20%E2%86%97-00FF41?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=00FF41&color=0D1117" alt="Portfolio" />
+      </a>
+    </td>
+    <td align="center" style="padding:0 6px;">
+      <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0D1117?style=for-the-badge&labelColor=00FF41&color=0D1117" alt="Open to Work" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
@@ -28,7 +39,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
 
@@ -50,24 +61,31 @@
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| 🌿 [**MangoGuard**](https://github.com/SCIFI-Shinobi/Intelligent-Mango-Health-Monitoring) | TinyML plant disease detection on Arduino Nano 33 BLE Sense — real-time inference, no cloud required | `C++` `Python` `FastAPI` `TinyML` |
-| 🏨 [**Hotel Management API**](https://github.com/SCIFI-Shinobi) | Full REST backend with room booking, admin management, and JWT auth | `Spring Boot` `PostgreSQL` `Java` |
-| 🛍️ [**Wubet Platform**](https://github.com/SCIFI-Shinobi) | Marketplace connecting Ethiopian fashion designers to global clients | `React` `JavaScript` `WooCommerce` |
-| 🔍 [**IG Unfollowers**](https://github.com/SCIFI-Shinobi/ig-unfollowers) | Tool to detect Instagram accounts that don't follow you back | `JavaScript` `HTML` |
+[![MangoGuard](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=Intelligent-Mango-Health-Monitoring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/Intelligent-Mango-Health-Monitoring)
+&nbsp;
+[![IG Unfollowers](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=ig-unfollowers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/ig-unfollowers)
 
+[![ezApply](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=ezApply&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/ezApply)
+&nbsp;
+[![ApplyFlow](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=ApplyFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/ApplyFlow)
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/SCIFI-Shinobi?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+  </a>
 </div>
 
 <br/>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SCIFI-Shinobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
@@ -77,7 +95,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SCIFI-Shinobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://streak-stats.demolab.com?user=SCIFI-Shinobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
 
 <div align="center">
@@ -89,7 +107,7 @@
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <picture>
@@ -103,7 +121,7 @@
 
 ---
 
-### 📬 Connect
+### Connect
 
 <div align="center">
   <a href="mailto:eyobelzeleke@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -112,7 +130,7 @@
   &nbsp;
   <a href="https://www.instagram.com/eyobel_z/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   &nbsp;
-  <a href="https://portfolio-seven-opal-48.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
+  <a href="https://eyobelz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
 </div>
 
 <br/>
