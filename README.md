@@ -8,16 +8,15 @@
 
 <br/>
 
-<!-- ── STATUS STRIP ─────────────────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00FF41" alt="Profile Views" />
-&nbsp;&nbsp;
-<a href="https://eyobelz-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-eyobelz--portfolio.vercel.app-%2300FF41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=00FF41&color=000000" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20STATUS-OPEN%20TO%20WORK-000000?style=for-the-badge&labelColor=00FF41&color=000000" alt="Open to Work" />
+  <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=flat-square&color=00FF41&label=Profile+Views&labelColor=0D1117" alt="Profile Views" height="28"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://eyobelz-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-00FF41?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" height="28"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-00FF41?style=flat-square&logoColor=black" alt="Open to Work" height="28"/>
 
 </div>
 
@@ -57,19 +56,21 @@
 
 <div align="center">
 
-[![MangoGuard](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=Intelligent-Mango-Health-Monitoring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/Intelligent-Mango-Health-Monitoring)
-&nbsp;
-[![IG Unfollowers](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=ig-unfollowers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/ig-unfollowers)
-
-[![ezApply](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=ezApply&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/ezApply)
-&nbsp;
-[![ApplyFlow](https://github-readme-stats.vercel.app/api/pin/?username=SCIFI-Shinobi&repo=ApplyFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)](https://github.com/SCIFI-Shinobi/ApplyFlow)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Intelligent-Mango-Health-Monitoring](https://github.com/SCIFI-Shinobi/Intelligent-Mango-Health-Monitoring) | Real-time agricultural disease detection using TinyML on Arduino Nano 33 BLE Sense | C++ · FastAPI · React |
+| [ig-unfollowers](https://github.com/SCIFI-Shinobi/ig-unfollowers) | Track Instagram accounts that don't follow you back | HTML · CSS · JS |
+| [ezApply](https://github.com/SCIFI-Shinobi/ezApply) | Automated job application assistant | Python |
+| [ApplyFlow](https://github.com/SCIFI-Shinobi/ApplyFlow) | Smart job application tracking and automation pipeline | Python |
+| [Cloud-Task-Manager](https://github.com/SCIFI-Shinobi/Cloud-Task-Manager) | Cloud-connected task management system with RESTful API | C |
+| [portfolio](https://github.com/SCIFI-Shinobi/portfolio) | Personal portfolio — live at eyobelz-portfolio.vercel.app | HTML · CSS · JS |
 
 </div>
 
 <div align="center">
+  <br/>
   <a href="https://github.com/SCIFI-Shinobi?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-%2300FF41?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
 
@@ -88,11 +89,6 @@
 <div align="center">
   <br/>
   <img src="https://streak-stats.demolab.com?user=SCIFI-Shinobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SCIFI-Shinobi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 <br/>
