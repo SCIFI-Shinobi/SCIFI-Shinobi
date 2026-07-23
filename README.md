@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=Computer+Engineering+Graduate;Embedded+AI+Developer;Full-Stack+Systems+Builder;Open+to+Dev+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=Computer+Engineer;Embedded+AI+Developer;Full-Stack+Systems+Builder;Open+to+Dev+Roles" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -81,13 +81,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCIFI-Shinobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCIFI-Shinobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="165" />
-</div>
-
-<div align="center">
-  <br/>
   <img src="https://streak-stats.demolab.com?user=SCIFI-Shinobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
 
