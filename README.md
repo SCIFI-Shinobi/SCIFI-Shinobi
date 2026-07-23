@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=161B22" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SCIFI-Shinobi&style=for-the-badge&color=161B22&label=PROFILE+VIEWS&labelColor=00FF41" alt="Profile Views" />
   &nbsp;&nbsp;
   <a href="https://eyobelz-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Site-00FF41?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=161B22&color=161B22" alt="Portfolio" />
